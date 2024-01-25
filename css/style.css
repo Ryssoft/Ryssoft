@@ -27,7 +27,7 @@ body a{
 	width: 80%;
 }
 .logo{
-	float:right;
+	float:left;
 	margin-right: 2%;
 }
 .menu{
@@ -44,7 +44,7 @@ body a{
   	 display: block;
 	font-size: 0.8125em;
 	text-transform: uppercase;
-	padding: 5px 20px;
+	padding: 10px 20px;
 	color: #FFF;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
