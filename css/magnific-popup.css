@@ -209,6 +209,14 @@ button::-moz-focus-inner {
 	margin: 40px auto;
 	position: relative;
 }
+#small-dialog5 {
+	background: #FFF;
+	padding: 10px 15px;
+	text-align: left;
+	max-width:600px;
+	margin: 40px auto;
+	position: relative;
+}
 .pop_up2{
 	padding:20px;
 }
